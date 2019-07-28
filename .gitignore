@@ -1,5 +1,12 @@
 .classpath
 .project
 .settings
-target
+
+target/
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
 pom.xml.versionsBackup
